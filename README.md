@@ -5,5 +5,5 @@ after this you can #include "Matrix.cpp"
 
 If you want create a matrix you should use
 
-Matrix m(3,3); # first number rows second cols
-m.print_matrix();
+# Matrix m(3,3); // first number rows second cols
+# m.print_matrix();
